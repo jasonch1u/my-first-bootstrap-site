@@ -1,0 +1,17 @@
+.my-nav {
+  background: #FF6600
+}
+
+.my-nav ul {
+  margin: 10px 0;
+}
+
+body {
+    padding-top: 70px;
+}
+
+hr.bar {
+  border: 2px solid #ff6600;
+  width: 80px;
+}
+
